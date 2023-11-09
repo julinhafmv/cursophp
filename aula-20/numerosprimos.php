@@ -13,7 +13,7 @@ for($i = 2; $i < $p; $i++){
 return $sequencia[$p-1];
 }
 
-echo primos(10);
+echo primos(10);    
 
 
 
